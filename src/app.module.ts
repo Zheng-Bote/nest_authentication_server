@@ -7,7 +7,7 @@ import { ResetModule } from './reset/reset.module';
   imports: [
     TypeOrmModule.forRoot({
       type: 'postgres',
-      host: '192.168.0.65',
+      host: '192.168.1.65',
       port: 6543,
       username: 'auth_user',
       password: 'auth_user',
