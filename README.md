@@ -42,6 +42,9 @@ Authentication server with 2FA and Social Logins
 
 ![ops](https://img.shields.io/badge/Status-usable-green)
 
+![dev](https://img.shields.io/badge/Info-limited_functionality-yellow)
+**Still under development**
+
 ### DESC
 
 <span id="description"></span>
